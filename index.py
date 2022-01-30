@@ -19,8 +19,7 @@ def is_phone_number(text):
     return True
 
 
-# (21) 98546-8979
 print('415-555-4242 is a phone number:')
 print(is_phone_number('415-555-4242'))
-print('(21) 96560-2272 is a phone number:')
-print(is_phone_number('(21) 96560-2272'))
+print('(21) 99567-2284 is a phone number:')
+print(is_phone_number('(21) 99567-2284'))
